@@ -38,23 +38,23 @@ This project uses several third-party dependencies. Some of the key dependencies
 
 - `flutter_bloc`: Provides tools for implementing BLoC architecture in Flutter.
 - `geolocator`: Allows fetching user location for personalized content.
-- `geocoding`: Used for getting users location details from latitude and longitude.
-- `get_it`: Used for Dependency Injection.
+- `geocoding`: Used for obtaining location details from latitude and longitude coordinates.
+- `get_it`: Facilitates Dependency Injection.
 - `http`: Used for making HTTP requests to fetch movie data.
 - `cached_network_image`: Enables caching of movie poster images for improved performance.
+
 
 For a full list of dependencies, refer to the `pubspec.yaml` file.
 
 ## Directory Structure
 lib/
-|-- config/ # you'll find files dedicated to configuration settings used across your application.
-|-- core/ # directory hosts fundamental modules and utilities essential for the application's functionality.
-|-- features # where individual features of our application are organized, to promote modularization and maintainability.
-| -- home # directory contains the landing and launch screens
-| -- data # encompasses functionalities related to data handling specific to the landing and launch screen features.
-This includes data sources (such as API clients or Cache Service), repositories for data access, and data models or entities tailored for this feature.
-| -- domain # the business logic of the landing and launch screen features resides. Here, you'll find use cases or inter actors defining the operations and actions pertinent to the feature's domain.
-| -- presentation # is dedicated to the UI and presentation logic of landing and launch screen
+|-- config/                 # Configuration settings used across the application.
+|-- core/                   # Fundamental modules and utilities essential for functionality.
+|-- features/               # Individual features of the application, organized for modularization.
+|   |-- home/               # Landing and launch screens.
+|       |-- data/           # Data handling specific to the home feature.
+|       |-- domain/         # Business logic of the home feature.
+|       |-- presentation/   # UI and presentation logic of the home feature.
 
 
 ## License
