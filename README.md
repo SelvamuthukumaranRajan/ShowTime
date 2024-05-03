@@ -1,6 +1,8 @@
 # ShowTime
 
---Seamlessly discover favorite movies with ease!--
+<h3>
+Seamlessly discover favorite movies with ease!
+</h3>
 
 A Flutter application for listing movies based on two categories(NowPlaying and TopRated) and providing local search functionality.
 This app follows the BLoC (Business Logic Component) architecture and MVVM (Model-View-ViewModel) pattern for managing state and UI separation.
@@ -47,14 +49,14 @@ This project uses several third-party dependencies. Some of the key dependencies
 For a full list of dependencies, refer to the `pubspec.yaml` file.
 
 ## Directory Structure
-lib/
-|-- config/                 # Configuration settings used across the application.
-|-- core/                   # Fundamental modules and utilities essential for functionality.
-|-- features/               # Individual features of the application, organized for modularization.
-|   |-- home/               # Landing and launch screens.
-|       |-- data/           # Data handling specific to the home feature.
-|       |-- domain/         # Business logic of the home feature.
-|       |-- presentation/   # UI and presentation logic of the home feature.
+- lib/
+- |-- config/                 # Configuration settings used across the application.
+- |-- core/                   # Fundamental modules and utilities essential for functionality.
+- |-- features/               # Individual features of the application, organized for modularization.
+- |   |-- home/               # Landing and launch screens.
+- |       |-- data/           # Data handling specific to the home feature.
+- |       |-- domain/         # Business logic of the home feature.
+- |       |-- presentation/   # UI and presentation logic of the home feature.
 
 
 ## License
@@ -69,3 +71,17 @@ LinkedIn - https://www.linkedin.com/in/iamsmk
 Flutter
 BLoC
 MovieDB API
+
+## Screenshots
+
+![Screenshot](screenshots/LandingScreen.png)
+![Screenshot](screenshots/LandingScreen2.png)
+![Screenshot](screenshots/PullToRefresh.png)
+![Screenshot](screenshots/Search.png)
+![Screenshot](screenshots/Pagination.png)
+
+## ScreenRecordings
+Available in 'screenrecords' directory.
+
+## APK
+Available in 'apk' directory.
