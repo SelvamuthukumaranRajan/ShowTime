@@ -1,0 +1,64 @@
+name: show_time
+description: Seamlessly discover favorite films with ease!
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+
+  #StateManagement
+  flutter_bloc: ^8.1.5
+  #CompareObjects
+  equatable: ^2.0.5
+
+  #APIRequest
+  http: ^1.2.1
+
+  #CacheAPI
+  flutter_cache_manager: ^3.3.2
+  #CacheImage
+  cached_network_image: ^3.3.1
+
+  #DI
+  get_it: ^7.7.0
+
+  #SVG
+  flutter_svg: ^2.0.10+1
+
+  #Number formatting
+  intl: ^0.19.0
+
+  #Location
+  geolocator: ^11.0.0
+  geocoding: ^3.0.0
+
+  #Permission
+  permission_handler: ^11.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.2
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Quicksand
+      fonts:
+        - asset: assets/fonts/Quicksand-Regular.ttf
+        - asset: assets/fonts/Quicksand-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Quicksand-SemiBold.ttf
+          weight: 700
