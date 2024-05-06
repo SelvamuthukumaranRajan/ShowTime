@@ -74,11 +74,8 @@ MovieDB API
 
 ## Screenshots
 
-![Screenshot](screenshots/LandingScreen.png)
-![Screenshot](screenshots/LandingScreen2.png)
-![Screenshot](screenshots/PullToRefresh.png)
-![Screenshot](screenshots/Search.png)
-![Screenshot](screenshots/Pagination.png)
+![Screenshot](screenshots/LandingScreen.png) ![Screenshot](screenshots/LandingScreen2.png) ![Screenshot](screenshots/PullToRefresh.png)
+![Screenshot](screenshots/Search.png) ![Screenshot](screenshots/Pagination.png)
 
 ## ScreenRecordings
 Available in 'screenrecords' directory.
