@@ -74,11 +74,35 @@ MovieDB API
 
 ## Screenshots
 
-![Screenshot](screenshots/LandingScreen.png) ![Screenshot](screenshots/LandingScreen2.png) ![Screenshot](screenshots/PullToRefresh.png)
-![Screenshot](screenshots/Search.png) ![Screenshot](screenshots/Pagination.png)
+| Landing Screen                               | Landing Screen 2                              | Pull To Refresh                              |
+|----------------------------------------------|-----------------------------------------------|----------------------------------------------|
+| ![Screenshot](screenshots/LandingScreen.png) | ![Screenshot](screenshots/LandingScreen2.png) | ![Screenshot](screenshots/PullToRefresh.png) |
+
+| Search                                | Pagination                                |
+|---------------------------------------|-------------------------------------------|
+| ![Screenshot](screenshots/Search.png) | ![Screenshot](screenshots/Pagination.png) |
 
 ## ScreenRecordings
+
+## Videos
+
+<video width="320" height="240" controls>
+  <source src="screenrecords/Showtime1.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="screenrecords/Showtime2.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="screenrecords/Showtime3.mp4" type="video/mp4">
+</video>
+
 Available in 'screenrecords' directory.
 
 ## APK
+You can download the APK file by clicking the link below:
+
+[Download APK](apk/ShowTime.apk)
+
 Available in 'apk' directory.
