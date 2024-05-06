@@ -84,9 +84,19 @@ MovieDB API
 
 ## ScreenRecordings
 
-| Video 1                                        | Video 2                                        | Video 3                                        |
-|------------------------------------------------|------------------------------------------------|------------------------------------------------|
-| <video width="320" height="240" controls><source src="screenrecords/Showtime1.mp4" type="video/mp4"></video> | <video width="320" height="240" controls><source src="screenrecords/Showtime2.mp4" type="video/mp4"></video> | <video width="320" height="240" controls><source src="screenrecords/Showtime3.mp4" type="video/mp4"></video> |
+## Videos
+
+<video width="320" height="240" controls>
+  <source src="screenrecords/Showtime1.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="screenrecords/Showtime2.mp4" type="video/mp4">
+</video>
+
+<video width="320" height="240" controls>
+  <source src="screenrecords/Showtime3.mp4" type="video/mp4">
+</video>
 
 Available in 'screenrecords' directory.
 
