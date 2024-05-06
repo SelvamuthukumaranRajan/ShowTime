@@ -84,9 +84,9 @@ MovieDB API
 
 ## ScreenRecordings
 
-| Video 1                                                                                            | Video 2                                                                                            | Video 3                                                                                            |
-|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| [![Thumbnail 1](thumbnail1_url)](https://drive.google.com/uc?id=1nf_AJAYf89qoj1PRtz6XMQOkouVGWwWB) | [![Thumbnail 2](thumbnail2_url)](https://drive.google.com/uc?id=1CgQ6LV9hKN1BxR8oFI7JJWQ68gFbpcjg) | [![Thumbnail 3](thumbnail3_url)](https://drive.google.com/uc?id=1DxVcG9qR0rAPeRVjBsD9P_87ISSIjF2Y) |
+| Video 1                                                                              | Video 2                                                                              | Video 3                                                                            |
+|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| (https://drive.google.com/file/d/1nf_AJAYf89qoj1PRtz6XMQOkouVGWwWB/view?usp=sharing) | (https://drive.google.com/file/d/1CgQ6LV9hKN1BxR8oFI7JJWQ68gFbpcjg/view?usp=sharing) | https://drive.google.com/file/d/1DxVcG9qR0rAPeRVjBsD9P_87ISSIjF2Y/view?usp=sharing |
 
 Available in 'screenrecords' directory.
 
